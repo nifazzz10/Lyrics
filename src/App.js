@@ -31,7 +31,7 @@ export default function App() {
           
           <h1>Login with Google</h1>
           <GoogleLogin
-            clientId="541366044016-ih63k8dohqb81ttfats4o2lsqt1ks21c.apps.googleusercontent.com"
+            clientId="314630045184-kk3ld1mcmv31l926v3q985chaeu88f3r.apps.googleusercontent.com"
             buttonText="Login"
             onSuccess={responseGoogle}
             onFailure={responseGoogle}
